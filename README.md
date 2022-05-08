@@ -1,8 +1,12 @@
 ### Hi Everyone 👋
 
-My name is Ranjeeta and I'm current working as a Data Scientist with the worlds largest custodian bank. 
+My name is Ranjeeta and I'm current working as a Data Scientist with the worlds largest custodian bank.
+This is my personal Github page where I have repositories of personal projects I worked on.
 
 #### [LinkedIn](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/)
+
+#### [Tableau](https://public.tableau.com/app/profile/ranjeeta.bhattacharya#!/)
+
 <!--
 **ranjeetabh/ranjeetabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
