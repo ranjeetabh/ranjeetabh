@@ -11,7 +11,7 @@ This is my personal Github page where I have repositories of personal projects I
 ##### [LinkedIn Profile](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/) 
 ##### [Tableau Public Profile](https://public.tableau.com/app/profile/ranjeeta.bhattacharya#!/)
 
-📫 How to reach me: ranjeeta.bhattacharya@rutgers.edu
+📫 Reach me @: bh.ranjeeta@gmail.com
 
 <!--
 **ranjeetabh/ranjeetabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
