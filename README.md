@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Everyone 👋
+
+My name is Ranjeeta and I'm current working as a Data Scientist at BNY Mellon, New York - the worlds largest custodian bank. 
 
 <!--
 **ranjeetabh/ranjeetabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
