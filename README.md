@@ -1,10 +1,10 @@
 ### Hi Everyone 👋
 
-- My name is Ranjeeta and I'm currently working as a Data Scientist with the worlds largest custodian bank.
+- My name is Ranjeeta and I'm currently working as a Senior Data Scientist with the world's largest custodian bank.
 
-- I have a masters degree in Data Science (Rutgers University, NJ,US) and worked for more than a decade as an IT consultant before pursuing a career in data science / analytics.
+- I have a master's degree in Data Science (Rutgers University, NJ, US) and worked for more than a decade as an IT consultant before pursuing a career in data science/analytics.
 
-- I'm currently based out of Greater New York City, Metropolitan area.
+- I'm currently based out of the Greater New York City, Metropolitan area.
 
 This is my personal Github page where I have repositories of personal projects I practiced and worked upon.
 
