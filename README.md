@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- My name is Ranjeeta and I'm currently working as a Senior Data Scientist with the world's largest custodian bank.
+- My name is Ranjeeta and I'm a senior data science professional.
 
 - I have a master's degree in Data Science (Rutgers University, NJ, US), and an undergraduate degree in Computer Science and Engineering, and worked for more than a decade as an IT consultant before pursuing a career in data science/analytics.
 
