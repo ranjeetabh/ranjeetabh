@@ -8,8 +8,9 @@
 
 This is my personal Github page where I have repositories of personal projects I practiced and worked on.
 
-#### [LinkedIn Profile](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/) 
-#### [Tableau Public Profile](https://public.tableau.com/app/profile/ranjeeta.bhattacharya#!/)
+#### [LinkedIn](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/) 
+#### [Google Scholar](https://scholar.google.com/citations?user=36pH9kYAAAAJ&hl=en) 
+#### [Tableau Public](https://public.tableau.com/app/profile/ranjeeta.bhattacharya#!/)
 
 📫 Reach me @: bh.ranjeeta@gmail.com
 
