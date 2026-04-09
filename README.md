@@ -1,12 +1,10 @@
 ### Hi Everyone 👋
 
-- I'm Ranjeeta, a senior data science professional.
+- I'm Ranjeeta, a senior data science professional based in the Greater New York City area.
 
-- I have a master's degree in Data Science (Rutgers University, NJ, US), and an undergraduate degree in Computer Science and Engineering, and worked for more than a decade as an IT consultant before pursuing a career in data science/analytics.
+- I hold a Master’s degree in Data Science from Rutgers University and an undergraduate degree in Computer Science & Engineering. 
 
-- I'm currently based out of the Greater New York City, Metropolitan area.
-
-This is my personal Github page where I have repositories of personal projects I practiced and worked on.
+- Here’s my personal GitHub page, where I share repositories of projects I’ve worked on and practiced.
 
 #### [LinkedIn](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/) 
 #### [Google Scholar](https://scholar.google.com/citations?user=36pH9kYAAAAJ&hl=en) 
