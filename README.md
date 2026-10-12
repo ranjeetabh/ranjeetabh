@@ -2,12 +2,15 @@
 Hello, I'm Ranjeeta! 👋
 
 • 🏙️ Location: Senior AI and Data Science Professional based in the Greater New York City area.
+
 • 🎓 Education:
 	• Master’s degree in Data Science from Rutgers University.
 	• Undergraduate degree in Computer Science & Engineering.
+	
 • 💼 Experience:
 	• Over 15 years of industry experience architecting end-to-end machine learning and AI solutions.
 	• Proven track record designing enterprise-scale data pipelines and production-grade ML models.
+	
 • 💻 About this Space:
 	• This personal GitHub page serves as a portfolio of my hands-on projects, code repositories, and technical blueprints.
 	• It highlights my practical implementation work, open-source explorations, and continuous learning in AI engineering.
